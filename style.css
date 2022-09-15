@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    color: rgb(246, 255, 192);
+    box-sizing: border-box;
+    border-width: 1px;
+    border-collapse: collapse;
+    border-color: white;
+  }
+  .box {
+    justify-content: center;
+    display: flex;
+    margin-top: 4rem;
+    align-items: center;
+  }
+  body {
+    margin-top: 10%;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-color: black;
+    background-size: cover;
+    background-image: url("https://cdn.glitch.global/efc8c5f2-b9c7-43b9-b3d1-6146934e6bf9/naruto-shippuden-sage-b6vo9wjf28lrjacs.jpg?v=1663264740593");
+  }
+  .b1{
+    background-color:#4c77af;
+    width: 100px;
+    height: 25px;
+    border-radius: 0px;
+  }
+
+
+  
+  .form {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    height: 500px;
+    flex-direction: column;
+    width: 750px;
+    border-radius: 25px;
+    box-shadow: 2px 4px 10px gray;
+    margin-right: 130px;
+  }
+  
+
+  .entries_box{
+    border-color:  pink;
+    padding : 10px;
+    border-radius: 15px;
+    margin-left: 150px;
+    border-collapse: collapse;
+    border: solid;
+    /* background-color: #4CAF50; */
+  }
+
